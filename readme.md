@@ -52,4 +52,4 @@ docker-compose up
 ```
 
 ---
-Configuration test in your email client, __Good Luck__
+Test your configuration with your mail clientz, __Good Luck__

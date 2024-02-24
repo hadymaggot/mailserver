@@ -10,7 +10,7 @@ git clone [repo_name] mailserver
 cd mailserver
 ```
 
-### Create data_dir
+### Create data_dir for mailserver
 ```bash
 mkdir docker-data
 ```
@@ -50,3 +50,6 @@ docker run --rm -e MAIL_USER=postmaster@domain.tld -e MAIL_PASS=your-password -i
 ```bash
 docker-compose up
 ```
+
+---
+Configuration test in your email client, __Good Luck__
